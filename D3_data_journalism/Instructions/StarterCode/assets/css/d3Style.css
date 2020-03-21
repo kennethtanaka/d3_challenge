@@ -12,7 +12,7 @@
 }
 
 .inactive {
-  font-weight: lighter;
+  font-weight: bold;
   fill: red;
   transition: fill 0.3s ease-out;
   text-anchor: middle;
